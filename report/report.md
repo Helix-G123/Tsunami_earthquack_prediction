@@ -4,6 +4,8 @@ Student Name: Yesheng Guan
 
 Student affiliation: Brown University DSI
 
+Link to github: https://github.com/Helix-G123/Tsunami_earthquack_prediction.git
+
 ## Introduction
 
 This project aims to predict if the tsunami will happen based on earthquacks factors.
